@@ -1,0 +1,1 @@
+usar fragments qd tiver mais de uma tag num component react
